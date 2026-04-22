@@ -11,4 +11,5 @@ Script to backup MySQL database, upload to AWS S3, and clean up local files.
 
 ## Usage
 chmod +x mysql_backup_s3.sh
+
 ./mysql_backup_s3.sh
